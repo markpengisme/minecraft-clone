@@ -1,22 +1,24 @@
 # Minecraft Clone
 
+`npm install && npm start`
+
 - [x] Boilerplate
-- [ ] Sky
-- [ ] Textures and images
-- [ ] Ground
-- [ ] Keyboard inputs
-- [ ] Player
-- [ ] First person view
-- [ ] Gravity
-- [ ] Movement
-- [ ] State management
-- [ ] Cubes
-- [ ] Adding cubes
-- [ ] Removing cubes
-- [ ] Cube type selector
-- [ ] Save world in localstorage
-- [ ] Hover state on cubes
-- [ ] Build a house
+- [x] Sky
+- [x] Textures and images
+- [X] Ground
+- [X] Keyboard inputs
+- [X] Player
+- [x] First person view
+- [x] Gravity
+- [x] Movement
+- [X] State management
+- [X] Cubes
+- [X] Adding cubes
+- [X] Removing cubes
+- [X] Cube type selector
+- [X] Save world in localstorage
+- [X] Hover state on cubes
+- [X] Build a house
 
 ## References
 
