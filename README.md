@@ -20,6 +20,8 @@
 - [X] Hover state on cubes
 - [X] Build a house
 
+![img](./house.png)
+
 ## References
 
 - Tutorial video: <https://www.youtube.com/watch?v=qpOZup_3P_A>
